@@ -154,7 +154,8 @@ function myClickEvent(e){
 ~~~
 
 ## OUTPUT:
-![output](tham.png)
+![output](tham.jpg)
+
 
 
 ## Result:
