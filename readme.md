@@ -135,7 +135,7 @@ function myClickEvent(e){
         <input type="button" id="yellow" value="Yellow">
     </div>
     <footer>
-        Developed by P. Ramsai
+        Developed by v.thamaraiselvan
     </footer>
         <script type ="text/javascript">
             var c = document.getElementById("myCanvas");
